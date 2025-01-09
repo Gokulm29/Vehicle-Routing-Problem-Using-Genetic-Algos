@@ -5,11 +5,12 @@ This project provides a solution to the Vehicle Routing Problem (VRP) using opti
 
 
 **Features**
-Optimization Algorithms: Implements methods to minimize costs and maximize route efficiency.
 
-Data Analysis: Processes input data to support decision-making.
+**Optimization Algorithms**: Implements methods to minimize costs and maximize route efficiency.
 
-Visualization: Plots routes and results for better understanding.
+**Data Analysis**: Processes input data to support decision-making.
+
+**Visualization**: Plots routes and results for better understanding.
 
 
 
