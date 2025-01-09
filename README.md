@@ -1,4 +1,5 @@
 **Vehicle Routing**
+
 This project provides a solution to the Vehicle Routing Problem (VRP) using optimization and routing techniques, designed for logistics and transportation efficiency. The implementation is in a Jupyter Notebook, optimized for use on Google Colab.
 
 
@@ -16,11 +17,13 @@ This project provides a solution to the Vehicle Routing Problem (VRP) using opti
 
 
 **Requirements**
+
 Google Colab (No local installation needed)
 Required Libraries: Automatically installed via notebook setup.
 
 
 **Usage**
+
 Upload the notebook to Google Colab.
 
 Follow the step-by-step instructions in the notebook.
@@ -31,10 +34,12 @@ Run all cells to execute the VRP solution and view the results.
 
 
 **Data**
+
 Ensure your input files are formatted correctly and uploaded to the Colab environment before running the notebook.
 
 
 
 **Contributions**
+
 Contributions are welcome! Feel free to submit issues or pull requests for improvements.
 
